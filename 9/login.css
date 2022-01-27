@@ -1,0 +1,12 @@
+body {
+    background-color: brown;
+}
+#box{
+    width: 250px;
+    height: 300px;
+    background-color: crimson;
+    border: darkgray;
+    margin: 5% auto;
+    text-align: center;
+    padding-top: 50px;
+}
